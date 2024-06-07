@@ -45,4 +45,4 @@ See `explore.ipynb` for an example and the result of sampling from the distribut
 
 - [Darts, Dice, and Coins](https://www.keithschwarz.com/darts-dice-coins/)
 - [A Linear Algorithm for Generating Random Numbers from a Given Distribution](https://www.computer.org/csdl/journal/ts/1991/09/e0972/13rRUxBa5oH)
-
+- [Population Pyramid Data](https://www.populationpyramid.net/)
