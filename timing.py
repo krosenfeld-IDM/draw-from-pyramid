@@ -51,5 +51,7 @@ if __name__ == "__main__":
         ax.set_xscale('log')
         if i == 0:
             ax.legend(frameon=False)
+            ax.set_ylabel("Time (s)")
         ax.set_title(f'{n_bins[i]} bins')
+        ax.set_xlabel('Samples')
     plt.savefig("timing.png")
